@@ -11,7 +11,7 @@
 
 💻 I linguaggi con cui so fare meglio l'hello world: Python, C, JS.
 
-🌐 Cose che mi uncuriosiscono: Back-edn development, Data Science, Machine Learning
+🌐 Cose che mi uncuriosiscono: Back-end development, Data Science, Machine Learning
 
 🔍 Cerco costantemente ";" or "\t" mancati e ogni tanto opportunità per imparare
 
