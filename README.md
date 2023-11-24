@@ -16,10 +16,3 @@
 🔍 Cerco costantemente ";" or "\t" mancati e ogni tanto opportunità per imparare
 
 Vieni a dare un'occhiata ai miei progetti (non che qui c'è ne siano assai) e lascia un feedback! 👨‍💼
-
-
-
-
-[![MrDionessalvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrDionesalvi)](https://github.com/MrDionesalvi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrDionesalvi)](https://github.com/anuraghazra/MrDionesalvi)
-
