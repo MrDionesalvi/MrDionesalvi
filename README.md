@@ -3,16 +3,12 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-# Ciao, sono [Dione]! 👋
+# Hi, I'm [Dione]! 👋
 
-🎓 Studente di Informatica presso l'Università di Torino 
+🎓 Student of Computer Science at the University of Turin 
 
-🚀 Appassionato sviluppatore con anni di esperienza
+🌐 Things I'm curious about: Back-end development, Data Science, Machine Learning
 
-💻 I linguaggi con cui so fare meglio l'hello world: Python, C, JS.
+🔍 I am constantly looking for ";" or "  " missed
 
-🌐 Cose che mi uncuriosiscono: Back-end development, Data Science, Machine Learning
-
-🔍 Cerco costantemente ";" or "\t" mancati e ogni tanto opportunità per imparare
-
-Vieni a dare un'occhiata ai miei progetti (non che qui c'è ne siano assai) e lascia un feedback! 👨‍💼
+Come have a look at my projects (not that there are many here) and leave feedback! 👨‍💼
