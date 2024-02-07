@@ -12,3 +12,6 @@
 🔍 I am constantly looking for ";" or "  " missed
 
 Come have a look at my projects (not that there are many here) and leave feedback! 👨‍💼
+
+---
+[![](https://visitcount.itsvg.in/api?id=mrdionesalvi&label=Profile%20Views&icon=7&pretty=false)](https://visitcount.itsvg.in)
