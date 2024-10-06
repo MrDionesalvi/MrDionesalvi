@@ -15,4 +15,5 @@ Come have a look at my projects (not that there are many here) and leave feedbac
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mrdionesalvi&label=Profile%20Views&icon=7&pretty=false)](https://visitcount.itsvg.in)
-![img|320x271]("https://wakatime.com/share/@mrdionesalvi/bc991ab9-02f8-4580-80bd-27ba0b16b62d.svg)
+<img src="https://wakatime.com/share/@mrdionesalvi/bc991ab9-02f8-4580-80bd-27ba0b16b62d.svg" width="400" height="790">
+
