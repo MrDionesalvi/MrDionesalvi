@@ -5,4 +5,3 @@
 
 [![](https://visitcount.itsvg.in/api?id=mrdionesalvi&label=Profile%20Views&icon=7&pretty=false)](https://visitcount.itsvg.in)
 <img src="https://wakatime.com/share/@mrdionesalvi/bc991ab9-02f8-4580-80bd-27ba0b16b62d.svg" width="450" height="280">
-<img src="https://wakatime.com/share/@mrdionesalvi/2b51ec9c-223b-470f-84a4-1eb5730dca1b.svg" width="450" height="280">
